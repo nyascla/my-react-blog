@@ -9,8 +9,8 @@ function App() {
     <div className="app">
       <Navbar />
       <Routes>
-        <Route path="/my-react-blog" element={<HomePage />} />
-        <Route path="/my-react-blog/detail/:id" element={<DetailPage />} />
+        <Route path="/" element={<HomePage />} />
+        <Route path="/detail/:id" element={<DetailPage />} />
       </Routes>
     </div>
   );
