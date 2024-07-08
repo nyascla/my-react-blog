@@ -1,0 +1,21 @@
+/* About Me */
+.about-me-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .about-me-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .about-me-container p {
+    margin-bottom: 15px;
+  }
+  
+  .about-me-container p:last-child {
+    margin-bottom: 0;
+  }

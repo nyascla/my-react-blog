@@ -1,5 +1,6 @@
 // UnderConstruction.js
 import React from 'react';
+import './UnderConstruction.css'
 
 const UnderConstruction = () => {
   return (

@@ -1,0 +1,32 @@
+
+  /* UnderConstruction.css */
+  .under-construction-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  .under-construction-container .content {
+    margin-bottom: 20px;
+  }
+  
+  .under-construction-container h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  .under-construction-container p {
+    font-size: 1.2em;
+  }
+  
+  .under-construction-container .worker img {
+    width: 100px;
+    height: 100px;
+  }
+    
+  

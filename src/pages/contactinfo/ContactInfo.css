@@ -1,0 +1,45 @@
+.contact-info-container {
+  background-color: #f8f9fa; /* Fondo ligeramente gris */
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.contact-info-container h1 {
+  font-size: 2.5rem; /* Tamaño de fuente grande */
+  color: #343a40; /* Color de texto oscuro */
+  margin-bottom: 30px;
+}
+
+.contact-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.contact-icon {
+  font-size: 2rem; /* Tamaño de icono grande */
+  margin-right: 15px;
+  color: #007bff; /* Color azul vibrante */
+}
+
+.contact-item p,
+.contact-item a {
+  font-size: 1.3rem; /* Tamaño de fuente grande */
+  color: #6c757d; /* Color de texto gris oscuro */
+  text-decoration: none;
+}
+
+.contact-item a {
+  color: #007bff; /* Color azul para enlaces */
+  transition: color 0.3s ease; /* Transición de color suave */
+}
+
+.contact-item a:hover {
+  color: #0056b3; /* Color azul más oscuro al pasar el mouse */
+  text-decoration: underline; /* Subrayado al pasar el mouse */
+}
