@@ -41,6 +41,12 @@ function HomePage() {
       description: '',
       link: '',
     },
+    {
+      image: 'https://via.placeholder.com/600x400',
+      title: 'React Portfolio',
+      description: '',
+      link: 'https://github.com/nyascla/my-react-blog',
+    },
 
   ];
 
